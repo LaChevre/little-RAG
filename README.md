@@ -13,3 +13,4 @@ The goal of this project is to enhance my skills in both RAG technology for pers
 - Enhanced Database: Develop a well-structured database optimized for Retrieval-Augmented Generation.
 - Improved Retrieval Algorithm: Refine the algorithm for more effective extraction from the database.
 - Advanced Prompt Engineering: Enhance prompt design and integrate more sophisticated Large Language Models (LLMs).
+- User Interface Development: Design and implement a user-friendly interface.
