@@ -19,7 +19,8 @@ The goal of this project is to enhance my skills in both RAG technology for pers
 
 - **Improved Retrieval Algorithm**: Refining the algorithm for more effective extraction from the database.
   - Added BERT embeddings ✅
-  - Setting up an ANNOY architecture
+  - Setting up an ANNOY index ✅
+  - Integrating the ANNOY index into the RAG architecture 🔧
 
 ## Future Upgrades
 
