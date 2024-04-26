@@ -13,7 +13,7 @@ The goal of this project is to enhance my skills in both RAG technology for pers
 ## Finished
 
 - **Enhanced Database**: Developed a well-structured database optimized for Retrieval-Augmented Generation.
-  - Created a SQLite database with optional indexing (currently unnecessary due to the small size of the database) ✅
+  - Created a SQLite database ✅
 
 ## In Progress
 
